@@ -1,0 +1,55 @@
+Branches:
+
+Rails Install
+Devise
+	Devise Modification - Administrative, Driver, and Customer Accounts
+	AdminUX 
+		Readme/storyboard upload
+		storyboard pages uploaded
+		storyboard flow&function created
+		Feedback log flow aggreagator view created
+	CustomerUX 
+		readme/storyboard upload
+		storyboard pages uploaded
+		storyboard flow&function created
+		Feedback log flow created
+	DriverUX
+		readme/storyboard upload
+		storyboard pages uploaded
+		storyboard flow&function created
+		feedback log flow created
+Email Signup Path
+	Sign in/register page
+	Customer settings, switch to driver, switch to admin page
+Figaro Creation
+Firebase
+	install complete
+	remote database set up to receive and send something
+		Car model
+		Space model
+		Incremented driver model
+		incremented customer model
+		Ratings models
+		Profile model
+		Comments models
+		Long/lat models
+		Itinerary model
+		Duration model
+		Test model
+		Customer profile model
+		Driver profile model
+
+Additional Modules required 
+	database flow happening... sort of
+	database objects returning finally
+	database security created
+	database security tested
+Heroku
+	Installed
+	Running
+	Local Server modifications
+	Heroku server modifications
+	Testing server modifications
+
+Stripe	Payments possible	
+
